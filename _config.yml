@@ -103,10 +103,8 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          Enyo Framework 기반의 Java Script Application 개발. (~2015년 12월)
-            - C/JavaScript
-          차량용 계기판 UI Application 개발.
-            - C++/Python/RESTful API
+          Enyo Framework 기반의 Java Script Application 개발. (~2015년 12월), C/JavaScript
+          차량용 계기판 UI Application 개발, C++/Python/RESTful API
 
       - layout: left
         title: LG디스플레이
