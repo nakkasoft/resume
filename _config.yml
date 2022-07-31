@@ -128,17 +128,21 @@ content:
         sub_title: 정보 및 컴퓨터 공학부
         description: | # this will include new lines to allow paragraphs
 
-  - title: A Little More About Me
+  - title: 못 다한 이야기
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      모든 SW의 개발 Process 대응
+        다년간의 개발을 통해서 고객의 요구 사항으로 부터 정의 되는 Spec분석 및 작성, 요구 기능 개발, Issue 대응 가능.
 
-      Look at this cool image  
-      ![Trees](/resume/images/landscape-trees.jpg "Trees")
+      불편함을 개선 한다. - 현재에 안주 하지 않고, 필요한 SW 개발.
+       Can Simulator : 차량용 CAN Signal 생성기.
+       Jira Issue 생성기 : web 접속 없이 PC에서 바로 Jira Issue 생성.
+       Remote PC 접속기 : 다수의 Remote PC 접속 관리.
+       서버 사용 량 통계 제공 : Jenkins를 통한 스케쥴링으로 나온 서버 사용량 Data를 web page를 통해 제공.
+
+
+#      Look at this cool image  
+#      ![Trees](/resume/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
