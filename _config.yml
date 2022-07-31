@@ -56,7 +56,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: 전국 카톨릭 성지 알림
 #        link: github.com/nakkasoft
         # link_text: Project Website
@@ -73,7 +73,7 @@ content:
           카톨릭 성지 관광화를 목적으로 개발한 안드로이드 Application.
           GPS 기반으로 현재 위치를 기준으로 반경 내에 있는 카톨릭 성지를 알려 줌.
 
-      - layout: top-middle
+      - layout: left
         title: 더하기빼기
         link: github.com/nakkasoft
         # link_text: Project Website
