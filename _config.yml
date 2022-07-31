@@ -129,8 +129,8 @@ content:
   - title: 못 다한 이야기
     layout: text
     content: | # this will include new lines to allow paragraphs
-      모든 SW의 개발 Process 대응
-        다년간의 개발을 통해서 고객의 요구 사항으로 부터 정의 되는 Spec분석 및 작성, 요구 기능 개발, Issue 대응 가능.
+      모든 SW의 개발 Process 대응 <br>
+        다년간의 개발을 통해서 고객의 요구 사항으로 부터 정의 되는 Spec분석 및 작성, 요구 기능 개발, Issue 대응 가능. <br>
 
       불편함을 개선 한다. - 현재에 안주 하지 않고, 필요한 SW 개발.
        Can Simulator : 차량용 CAN Signal 생성기.
