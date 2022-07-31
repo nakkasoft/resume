@@ -136,7 +136,7 @@ content:
        Can Simulator : 차량용 CAN Signal 생성기.
        Jira Issue 생성기 : web 접속 없이 PC에서 바로 Jira Issue 생성.
        Remote PC 접속기 : 다수의 Remote PC 접속 관리.
-       서버 사용 량 통계 제공 : Jenkins를 통한 스케쥴링으로 나온 서버 사용량 Data를 web page를 통해 제공.
+       서버 사용량 통계 제공 : Jenkins를 통한 스케쥴링으로 나온 서버 사용량 Data를 web page를 통해 제공.
 
 
 #      Look at this cool image  
