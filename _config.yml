@@ -53,11 +53,11 @@ about_content: | # this will include new lines to allow paragraphs
     Native <mark>C</mark>, <mark>C++</mark>, <mark>Python</mark>, <mark>Java Script</mark>에 대한 Skill을 보유 하고 있습니다.
 
 content:
-#  - title: Projects # Title for the section
-#    layout: list # Type of content section (list/text)
-#    content:
-#      - layout: top-middle
-#        title: Super awesome project
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: 전국 카톨릭 성지 알림
 #        link: github.com/nakkasoft
         # link_text: Project Website
 #        additional_links:
@@ -67,10 +67,29 @@ content:
 #          # - title:  Github page for project (eg. nakkasoft/modern-resume)
 #          #   icon: fab fa-github
 #          #   url: Link to project (eg. nakkasoft.github.io/modern-resume)
-#        quote: >
-#          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-#        description: | # this will include new lines to allow paragraphs
-#          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+        quote: >
+          전국에 있는 카톨릭 성지 알리미
+        description: | # this will include new lines to allow paragraphs
+          카톨릭 성지 관광화를 목적으로 개발한 안드로이드 Application.
+          GPS 기반으로 현재 위치를 기준으로 반경 내에 있는 카톨릭 성지를 알려 줌.
+
+      - layout: top-middle
+        title: 더하기빼기
+        link: github.com/nakkasoft
+        # link_text: Project Website
+#        additional_links:
+#          - title:  nakkasoft/modern-resume
+#            icon: fab fa-github
+#            url: github.com/nakkasoft/modern-resume
+#          # - title:  Github page for project (eg. nakkasoft/modern-resume)
+#          #   icon: fab fa-github
+#          #   url: Link to project (eg. nakkasoft.github.io/modern-resume)
+        quote: >
+          유아/초등 대상 더하기 빼기 게임
+        description: | # this will include new lines to allow paragraphs
+          유아 부터 초등 학생까지 더하기 뺴기가 가능한 아동을 대상으로 더하기 빼기 게임을 제공함.
+          3가지 모드의 게임이 존재 하며, 게임을 통해 암산 능력을 키워줌.
+          현재 개발 중이며, 올해 8월 Release예정.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
